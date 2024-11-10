@@ -32,5 +32,5 @@ HC-05 AT commands work as expected, nonetheless, bluetooth communication doesn't
 1. Clone this repository:
    ```sh
    git clone https://github.com/yourusername/motor-control-system.git
-2. CHeck the code and wire it up as needed. If you wanna uSe another port is up to you. 
+2. Check the code and wire it up as needed. If you wanna use another port is up to you. 
 3. Upload it to your ESP32 board
